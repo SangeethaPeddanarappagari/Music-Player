@@ -1,4 +1,4 @@
-# Spotify-Clone
+# My Music Player
 This is a Simple Music player with a collection of my favourite songs.
 This UI is developed using JavaScript.
 # Output
